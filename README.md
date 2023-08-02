@@ -1,5 +1,5 @@
 # AED_BGame
-2013ICIP: Adversarial example detection Bayesian game
+2023ICIP: Adversarial example detection Bayesian game
 
 ## Prepare
 Copy the folder 'FFDNet' and 'foolbox' from 'https://github.com/zengh5/adversarial-example-security/tree/main/Test1'  
